@@ -1,0 +1,3 @@
+com\dtccdemo\tradevalidation\controller\TradeControllerIntegrationTest.class
+com\dtccdemo\tradevalidation\service\TradeStandardizationServiceTest.class
+com\dtccdemo\tradevalidation\service\TradeValidatorTest.class

@@ -1,0 +1,13 @@
+F:\trade-validation-service\trade-validation-service\src\main\java\com\dtccdemo\tradevalidation\controller\TradeController.java
+F:\trade-validation-service\trade-validation-service\src\main\java\com\dtccdemo\tradevalidation\dto\IncomingTradeRequest.java
+F:\trade-validation-service\trade-validation-service\src\main\java\com\dtccdemo\tradevalidation\dto\TradeIngestResult.java
+F:\trade-validation-service\trade-validation-service\src\main\java\com\dtccdemo\tradevalidation\exception\GlobalExceptionHandler.java
+F:\trade-validation-service\trade-validation-service\src\main\java\com\dtccdemo\tradevalidation\model\RejectedTrade.java
+F:\trade-validation-service\trade-validation-service\src\main\java\com\dtccdemo\tradevalidation\model\Trade.java
+F:\trade-validation-service\trade-validation-service\src\main\java\com\dtccdemo\tradevalidation\model\TradeStatus.java
+F:\trade-validation-service\trade-validation-service\src\main\java\com\dtccdemo\tradevalidation\repository\RejectedTradeRepository.java
+F:\trade-validation-service\trade-validation-service\src\main\java\com\dtccdemo\tradevalidation\repository\TradeRepository.java
+F:\trade-validation-service\trade-validation-service\src\main\java\com\dtccdemo\tradevalidation\service\TradeIngestService.java
+F:\trade-validation-service\trade-validation-service\src\main\java\com\dtccdemo\tradevalidation\service\TradeStandardizationService.java
+F:\trade-validation-service\trade-validation-service\src\main\java\com\dtccdemo\tradevalidation\service\TradeValidator.java
+F:\trade-validation-service\trade-validation-service\src\main\java\com\dtccdemo\tradevalidation\TradeValidationServiceApplication.java

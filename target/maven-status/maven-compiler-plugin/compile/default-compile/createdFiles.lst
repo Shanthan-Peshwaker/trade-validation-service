@@ -1,0 +1,13 @@
+com\dtccdemo\tradevalidation\repository\RejectedTradeRepository.class
+com\dtccdemo\tradevalidation\service\TradeValidator.class
+com\dtccdemo\tradevalidation\exception\GlobalExceptionHandler.class
+com\dtccdemo\tradevalidation\repository\TradeRepository.class
+com\dtccdemo\tradevalidation\model\RejectedTrade.class
+com\dtccdemo\tradevalidation\TradeValidationServiceApplication.class
+com\dtccdemo\tradevalidation\model\Trade.class
+com\dtccdemo\tradevalidation\service\TradeStandardizationService.class
+com\dtccdemo\tradevalidation\model\TradeStatus.class
+com\dtccdemo\tradevalidation\dto\IncomingTradeRequest.class
+com\dtccdemo\tradevalidation\dto\TradeIngestResult.class
+com\dtccdemo\tradevalidation\controller\TradeController.class
+com\dtccdemo\tradevalidation\service\TradeIngestService.class
